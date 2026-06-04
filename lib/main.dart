@@ -24,7 +24,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      title: 'CapitalFlow Pro',
+      title: 'nexaFinance',
       theme: ThemeData(
         primarySwatch: Colors.green,
       ),
